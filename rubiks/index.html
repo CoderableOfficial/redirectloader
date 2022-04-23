@@ -1,0 +1,109 @@
+<html>
+<head><title>Redirecting....</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+<meta http-equiv = "refresh" content = "5; url = https://rubiks.coderable.studio" />
+<style>
+  body {
+  background: #eeeeee;
+  background-size: cover;
+  margin: 0;
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  height:;
+  justify-content: space-around;
+  margin: 0 auto;
+  max-width: 650px;
+  min-width: 200px;
+}
+
+.canvas {
+  align-items: center;
+  background: #eeeeee;
+  border-radius: 50%;
+  
+  display: flex;
+  height: 10em;
+  justify-content: center;
+  margin: 1em 1em 2em 1em;
+  width: 10em;
+}
+.spinner6 {
+  background: #4DB6AC;
+  border-radius: 50%;
+  height: 1em;
+  margin: .1em;
+  width: 1em;
+}
+
+.p1 {
+  animation: fall 1s linear .3s infinite;
+}
+
+.p2 {
+  animation: fall 1s linear .2s infinite;
+}
+
+.p3 {
+  animation: fall 1s linear .1s infinite;
+}
+
+.p4 {
+  animation: fall 1s linear infinite;
+}
+
+@keyframes fall {
+  0% {
+    transform: translateY(-15px);
+  }
+  25%, 75% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-15px);
+  }
+}
+
+
+.text  {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  color: #FDB515;
+  font: 900 99% "Open Sans", sans-serif;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.stext {
+  display: flex;
+    justify-content: center;
+    color: #3b4249;
+    font-size: 10px;
+}
+</style>
+</head>
+<body>
+<div class = "container">  
+<div class="canvas canvas6">
+    <div class="spinner6 p1"></div>
+    <div class="spinner6 p2"></div>
+    <div class="spinner6 p3"></div>
+    <div class="spinner6 p4"></div>
+  </div>
+  </div>
+  <div class = "text">
+  <p>Please wait while we redirect you securely...
+    <br>
+    <br>
+    <span class="stext">Secured By Codesecure</span>
+  </p>
+   </div> 
+</body>
+</html>
+  
