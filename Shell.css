@@ -1202,7 +1202,7 @@ button:focus { outline: none; }
 #logo .home-screen-logo {
 	height: 100%;
 	pointer-events: auto;
-	content: url('https://www.pngitem.com/pimgs/m/490-4900181_shell-shockers-hd-png-download.png');
+	content: url('https://shellshock.io/img/logo.svg');
 }
 
 .egg-org-logo {
