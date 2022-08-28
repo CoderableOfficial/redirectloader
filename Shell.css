@@ -928,7 +928,7 @@ button:focus { outline: none; }
 	height: 1.5em;
 	width: auto;
 	margin: var(--ss-space-sm) var(--ss-space-sm) 0 0;
-  content: url('https://img.freepik.com/premium-vector/hand-drawn-colorful-chicken-easter-egg-white-isolated-background_558186-61.jpg')
+  content: url('https://raw.githubusercontent.com/CoderableOfficial/redirects/main/image-removebg-preview.png')
 }
 
 .equip_pricetag__tag {
@@ -1376,7 +1376,7 @@ button:focus { outline: none; }
 .egg_icon {
 	height: 2em;
 	margin: var(--ss-space-micro) var(--ss-space-sm) 0 0;
-  content: url('https://img.freepik.com/premium-vector/hand-drawn-colorful-chicken-easter-egg-white-isolated-background_558186-61.jpg')
+  content: url('https://raw.githubusercontent.com/CoderableOfficial/redirects/main/image-removebg-preview.png')
 }
 
 .egg_icon_sm {
@@ -4512,7 +4512,7 @@ color: var(--ss-transparent);
 
 .playerSlot--icons .vip-egg {
 	text-shadow: 1px 1px 2px rgb(0 0 0 / 50%);
-  content: url('https://img.freepik.com/premium-vector/hand-drawn-colorful-chicken-easter-egg-white-isolated-background_558186-61.jpg') !important;
+  content: url('https://raw.githubusercontent.com/CoderableOfficial/redirects/main/image-removebg-preview.png') !important;
   max-height: 1.1em;
   max-width: 1.1em;
 }
